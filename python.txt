@@ -1,0 +1,3 @@
+python is the easiest language to learn 
+
+we can also do datastructure using python 
